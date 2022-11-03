@@ -1,5 +1,5 @@
 
-# Python Project Template
+# Marconi DBP
 
 A low dependency and really simple to start project template for Python Projects.
 
